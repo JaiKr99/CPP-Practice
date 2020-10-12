@@ -1,0 +1,9 @@
+# Cpp Pratice
+
+A repository to track my C++ progress as I learn data structures.
+
+### Week 1 plan
+- [ ] Arrays
+- [ ] Linked Lists
+- [ ] Stacks
+- [ ] Five questions on each
