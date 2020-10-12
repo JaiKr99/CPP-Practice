@@ -7,3 +7,9 @@ A repository to track my C++ progress as I learn data structures.
 - [ ] Linked Lists
 - [ ] Stacks
 - [ ] Five questions on each
+
+### Week 2 plan
+- [ ] Queues
+- [ ] Trees
+- [ ] A bit of practice for both
+
