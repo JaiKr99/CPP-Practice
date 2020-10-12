@@ -1,4 +1,4 @@
-# Cpp Pratice
+# Cpp Practice
 
 A repository to track my C++ progress as I learn data structures.
 
